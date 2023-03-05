@@ -1,0 +1,36 @@
+.setupForm{
+    background-color: white;
+    /* margin:auto; */
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+    width:10cm;
+    padding:0.8cm;
+}
+
+select, input{
+    width:100%;
+    background-color: rgb(238, 234, 234);
+    margin-top:0.3cm;
+    font-size:15px;
+    padding:0.1cm;
+}
+
+.submit-button{
+    margin:auto;
+    width:100%;
+    background-color:rgb(250,200,50);
+    border-width: 0;
+    border-radius: 4px;
+    font-size:18px;
+    padding:0.2cm;
+}
+.submit-button:hover{
+    cursor:pointer;
+}
+
+.inpContainer{
+    margin-bottom:1cm;
+}
