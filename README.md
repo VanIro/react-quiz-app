@@ -7,7 +7,7 @@ This is an app which uses a question collection, and plays out a quiz from those
   - useRef
 
 ## Challenging Parts
-  - Question Navigation while maintaining the state of selected answers
+  - Question Navigation feature while maintaining the state of selected answers
   
   
 ## Screenshots
