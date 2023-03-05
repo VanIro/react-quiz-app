@@ -5,6 +5,10 @@ This is an app which uses a question collection, and plays out a quiz from those
   - useState
   - useEffect
   - useRef
+
+## Challenging Parts
+  - Question Navigation while maintaining the state of selected answers
+  
   
 ## Screenshots
 ### Setup Round
