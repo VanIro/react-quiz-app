@@ -8,6 +8,9 @@ This is an app which uses a question collection, and plays out a quiz from those
 
 ## Challenging Parts
   - Question Navigation feature while maintaining the state of selected answers
+ 
+## Solution
+  - Store the state of all Questions in a parent container, and pass each question's state to it through props.
   
   
 ## Screenshots
