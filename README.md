@@ -1,6 +1,13 @@
 # react-quiz-app
 This is an app which uses a question collection, and plays out a quiz from those.
 
+##Components created
+  - Quiz
+  - Setup_form
+  - Question
+  - QuizNav
+  - Card
+
 ## Features used:
   - useState
   - useEffect
