@@ -1,6 +1,6 @@
 # react-quiz-app
 This is an app which uses a question collection, and plays out a quiz from those.
-
+question.js contains the collection of questions, which is used as the source of questions.
 ## Components created
   - Quiz
   - Setup_form
