@@ -35,6 +35,8 @@ This is an app which uses a question collection, and plays out a quiz from those
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install react`
+Installs the React library.
 
 ### `npm start`
 
